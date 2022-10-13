@@ -5,7 +5,7 @@ export default function App() {
 	return (
 	        <View style={style.container}>
 	                <Text>mariya</Text>
-<Text>App developer </text>
+                        <Text>App developer </text>
                         <StatusBar style=“auto“ />
                </View>
        );
